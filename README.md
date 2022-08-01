@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@ShmuelRob](https://github.com/ShmuelRob) AKA **Shmuel Robinov** 
 - 👀 I’m interested in the languages TypeScript, JavaScript, C#, etc.
-- I'm also work with Angular Framwork, ReactJS, WPF, UWP etc.
-- 🌱 I’m currently learning ASP.NET core MVC and Node.JS.
+- I'm also work with Angular Framwork, WPF, UWP etc.
+- 🌱 I’m currently learning ASP.NET core MVC, Node.JS and ReactJS.
 - 📫 You can reach me in [Linkedin](https://www.linkedin.com/in/ShmuelRobinov/) and on my [Email](mailto:shmuel.robinov@gmail.com)
